@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQThuis", "LINQThuis\LINQThuis.csproj", "{18AEDD8D-0F0D-4A5B-8442-DE0866146F13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18AEDD8D-0F0D-4A5B-8442-DE0866146F13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18AEDD8D-0F0D-4A5B-8442-DE0866146F13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18AEDD8D-0F0D-4A5B-8442-DE0866146F13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18AEDD8D-0F0D-4A5B-8442-DE0866146F13}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4413F5BF-7AE1-446E-AC13-BFA0F52C9AA8}
+	EndGlobalSection
+EndGlobal
